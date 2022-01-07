@@ -8,60 +8,60 @@ Happy Hacking! :)
 
 ## Extra materials from the Theory classes ##
 
-# Topic 1. Introduction
+### Topic 1. Introduction
 
-# Topic 2. Cryptography applications
+### Topic 2. Cryptography applications
 
-# Topic 3. OS Security
+### Topic 3. OS Security
 
-# Topic 4. Security policies
+### Topic 4. Security policies
 
-# Topic 5. Perimeter and Network security
+### Topic 5. Perimeter and Network security
 
-# Topic 6. Application Security
+### Topic 6. Application Security
 
-# Topic 7. Introduction to Red Team Techniques. CTFs
+### Topic 7. Introduction to Red Team Techniques. CTFs
 
 
 ## Extra materials from the Seminar classes ##
 
-# Seminar 1. Tools for Investigating on Internet
+### Seminar 1. Tools for Investigating on Internet
 
-# Seminar 2. Physical security
+### Seminar 2. Physical security
 
-# Seminar 3. Automated vulnerability scanning tools
+### Seminar 3. Automated vulnerability scanning tools
 
-# Seminar 4. Introduction to reversing
+### Seminar 4. Introduction to reversing
 
-# Seminar 5. Input validation
+### Seminar 5. Input validation
 
-# Seminar 6. HTTP headers and CSP
+### Seminar 6. HTTP headers and CSP
 
-# Seminar 7. Write-up of a CTF machine
+### Seminar 7. Write-up of a CTF machine
 
 ## Extra materials from the Laboratory classes ##
 
-# Lab 00. Creating your Virtual Machine for the Course and Automated Infrastructures
+### Lab 00. Creating your Virtual Machine for the Course and Automated Infrastructures
 
-# Lab 01. System setup
+### Lab 01. System setup
 
-# Lab 02. Information Discovery and OSINT
+### Lab 02. Information Discovery and OSINT
 
-# Lab 03-04. Cryptography Applications 
+### Lab 03-04. Cryptography Applications 
 
-# Lab 05. Operating System Security (non-automatable)
+### Lab 05. Operating System Security (non-automatable)
 
-# Lab 06. Automatable Linux Operating System. Security policies
+### Lab 06. Automatable Linux Operating System. Security policies
 
-# Lab 07. Network Security
+### Lab 07. Network Security
 
-# Lab 08-09. Network Enumeration
+### Lab 08-09. Network Enumeration
 
-# Lab 10. Defending a web application
+### Lab 10. Defending a web application
 
-# Lab 11. Exploiting
+### Lab 11. Exploiting
 
-# Lab 12. Privilege Scalation
+### Lab 12. Privilege Scalation
 
 ## Tool cheatsheets ##
 
