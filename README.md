@@ -12,6 +12,9 @@ Happy Hacking! :)
 
 ### Topic 2. Cryptography applications
 
+- **Practical Cryptography for Developers** by Svetlin Nakov: (https://cryptobook.nakov.com/)
+- **Introduction to Quantum Computing** by Thomas Wong: (http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf)
+
 ### Topic 3. OS Security
 
 ### Topic 4. Security policies
@@ -33,6 +36,8 @@ Happy Hacking! :)
 
 ### Seminar 4. Introduction to reversing
 
+- **Ataque ROP** by scanthenet.net: (https://scanthenet.es/ataque-rop/)
+
 ### Seminar 5. Input validation
 
 ### Seminar 6. HTTP headers and CSP
@@ -46,6 +51,8 @@ Happy Hacking! :)
 ### Lab 01. System setup
 
 ### Lab 02. Information Discovery and OSINT
+
+- **OSINT Tips** by blaCCkHatHacEEkr: (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 
 ### Lab 03-04. Cryptography Applications 
 
@@ -63,8 +70,13 @@ Happy Hacking! :)
 
 ### Lab 12. Privilege Scalation
 
-## Tool cheatsheets ##
+## Tools and other cheatsheets ##
 
+### Third-party Cheatsheets
+
+- **Cheatsheet collection (miscellaneous tools, commands, concepts)** from elhacker.net: (https://ns2.elhacker.net/cheat-sheet/)
+
+### Our own Cheatsheets
 In the course *Seguridad de Sistemas Informáticos* (SSI, Computer Systems Security) from the *Escuela de Ingeniería Informática* of the University of Oviedo (https://ingenieriainformatica.uniovi.es/) we make extensive usage of cheatsheets for various tools. I have decided to share them to enable others to take advantage of these materials if they want. Please, be sure to also check my related repo *SSI_Materials* (https://github.com/jose-r-lopez/SSI_Materials) that contains how to create training labs to test these tools.
 
 Each tool cheatsheet is provided in its own PDF file. The initial set of 33 cheatsheets (course 2020-2021) have been uploaded. Next course I will plan to create some more if needed, so this repo may get updated over time.  
