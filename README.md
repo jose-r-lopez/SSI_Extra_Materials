@@ -37,6 +37,7 @@ Happy Hacking! :)
 ### Seminar 4. Introduction to reversing
 
 - **Ataque ROP** by scanthenet.net: (https://scanthenet.es/ataque-rop/)
+- **Reversing Demo Malware 32bits** by Abraham Pasamar (Video): (https://youtu.be/FsQlk-Ut9fY)
 
 ### Seminar 5. Input validation
 
