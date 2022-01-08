@@ -132,7 +132,7 @@ Happy Hacking! :)
 
 - **Email spoofing: comprueba quién te envía un correo sospechoso** by *OSI* (https://www.osi.es/es/actualidad/blog/2020/11/11/email-spoofing-comprueba-quien-te-envia-un-correo-sospechoso)
 - **OSINT Tips** by *blaCCkHatHacEEkr* (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
-
+- **SpoofThatMail: Bash script to check if a domain or list of domains can be spoofed based in DMARC records** by *v4d1* (https://github.com/v4d1/SpoofThatMail)
 
 ### Lab 03-04. Cryptography Applications 
 
