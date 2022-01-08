@@ -17,14 +17,44 @@ Happy Hacking! :)
 
 ### Topic 3. OS Security
 
-### Topic 4. Security policies
+### Topic 4. Security policies and Automated Security
+
+#### Linux
+
+#### Windows
+
+- **PingCastle - Get Active Directory Security at 80% in 20% of the time** by *vletoux* (https://github.com/vletoux/pingcastle)
 
 ### Topic 5. Perimeter and Network security
 
+- **Malwoverview first response tool for threat hunting** by *Alexandre Borges* (https://github.com/alexandreborges/malwoverview)
+
 ### Topic 6. Application Security
+
+- **Un marco de análisis de comportamiento de entidades y usuarios (UBA) robusto y flexible de código abierto** by *Álvaro Paz* (https://gurudelainformatica.es/un-marco-de-analisis-de-comportamiento-de-entidades-y-usuarios-uba-robusto-y-flexible-de-codigo-abierto)
+- **Virtual Patching Best Practices** by *OWASP* (https://owasp.org/www-community/Virtual_Patching_Best_Practices)
+- **Weaknesses in the 2021 CWE Top 25 Most Dangerous Software Weaknesses** by *MITRE* (http://cwe.mitre.org/data/definitions/1337.html)
 
 ### Topic 7. Introduction to Red Team Techniques. CTFs
 
+#### General
+
+- **MITRE ATT&CK** by *MITRE* (https://attack.mitre.org/)
+
+#### Exploiting
+
+- **Penetration Testing Methodologies** by *OWASP* (https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies)
+
+#### Post-Exploiting
+
+##### Linux
+
+- **Enumeración en Linux para Post-Explotacion (Parte 1)** by *adastra* (https://thehackerway.com/2021/04/01/enumeracion-en-linux-para-post-explotacion-parte-1/)
+- **Enumeración en Linux para Post-Explotacion (Parte 2)** by *adastra* (https://thehackerway.com/2021/04/05/enumeracion-en-linux-para-post-explotacion-parte-2/)
+- **Enumeración en Linux para Post-Explotacion (Parte 3)** by *adastra* (https://thehackerway.com/2021/04/08/enumeracion-en-linux-para-post-explotacion-parte-3/)
+- **Enumeración en Linux para Post-Explotacion (Parte 4)** by *adastra* (https://thehackerway.com/2021/04/12/enumeracion-en-linux-para-post-explotacion-parte-4/)
+
+##### Windows
 
 ## Extra materials from the Seminar classes ##
 
@@ -69,9 +99,20 @@ Happy Hacking! :)
 
 ### Lab 08-09. Network Enumeration
 
+- **Subdomain Enumeration Guide** by *sidxparab* (https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
+
 ### Lab 10. Defending a web application
 
 ### Lab 11. Exploiting
+
+##### Múltiple OS
+
+- **Autowasp BurpSuite Extension: A one-stop pen testing checklist and logger tool** by *PortSwigger* (https://github.com/PortSwigger/autowasp)
+- **SMB Enumeration Guide** by *Stefano Lanaro* (https://steflan-security.com/smb-enumeration-guide/)
+
+##### Linux
+
+##### Windows
 
 ### Lab 12. Privilege Scalation
 
