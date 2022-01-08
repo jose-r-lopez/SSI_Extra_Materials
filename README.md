@@ -85,7 +85,9 @@ Happy Hacking! :)
 
 ### Seminar 1. Tools for Investigating on Internet
 
+- **Ciberpatrulla: Repository of OSINT tools** by *Julián Gutiérrez* (https://ciberpatrulla.com/links/)
 - **How To Get Hacked By Accidentally Copy Pasting** by *Gabriel Friedlander* (https://www.wizer-training.com/blog/copy-paste)
+- **OSINT Tutorials (miscellaneous)** by *Julián Gutiérrez* (https://ciberpatrulla.com/)
 - **Twitter Advanced Search** by *Igor Brigadir* (https://github.com/igorbrigadir/twitter-advanced-search)
 
 
