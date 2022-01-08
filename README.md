@@ -219,6 +219,8 @@ Happy Hacking! :)
 ### Third-party Cheatsheets
 
 - **Cheatsheet collection (miscellaneous tools, commands, concepts)** from *elhacker.net* (https://ns2.elhacker.net/cheat-sheet/)
+- **OSINT Cheatsheets** by *Inteltechniques.com* (https://twitter.com/DerechodelaRed/status/1479851844763594754?t=qcwZXVJ0d3VLnDNqq-j1gA&s=19)
+
 
 ### Our own Cheatsheets
 In the course *Seguridad de Sistemas Informáticos* (SSI, Computer Systems Security) from the *Escuela de Ingeniería Informática* of the University of Oviedo (https://ingenieriainformatica.uniovi.es/) we make extensive usage of cheatsheets for various tools. I have decided to share them to enable others to take advantage of these materials if they want. Please, be sure to also check my related repo *SSI_Materials* (https://github.com/jose-r-lopez/SSI_Materials) that contains how to create training labs to test these tools.
