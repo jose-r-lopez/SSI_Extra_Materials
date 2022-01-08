@@ -40,6 +40,8 @@ Happy Hacking! :)
 
 #### Linux
 
+- ** Creación de una máquina Ubuntu con  hardening “intenso” aplicado de forma automatizada** by *me* for *AsturHackers* (https://blog.asturhackers.es/creacion-de-una-maquina-ubuntu-con-hardening-intenso-aplicado-de-forma-automatizada)
+
 #### Windows
 
 - **PingCastle - Get Active Directory Security at 80% in 20% of the time** by *vletoux* (https://github.com/vletoux/pingcastle)
@@ -124,6 +126,7 @@ Happy Hacking! :)
 
 ### Lab 01. System setup
 
+- **Virustotal: file and URL malware analysis** (https://www.virustotal.com/gui/home/upload)
 
 ### Lab 02. Information Discovery and OSINT
 
