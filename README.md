@@ -10,12 +10,17 @@ Happy Hacking! :)
 
 ### Topic 1. Introduction
 
+
 ### Topic 2. Cryptography applications
 
 - **Introduction to Quantum Computing** by *Thomas Wong* (http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf)
 - **Practical Cryptography for Developers** by *Svetlin Nakov* (https://cryptobook.nakov.com/)
 
+
 ### Topic 3. OS Security
+
+- ** Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01** by *Olaf Hartong* (https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
+
 
 ### Topic 4. Security policies and Automated Security
 
@@ -25,15 +30,19 @@ Happy Hacking! :)
 
 - **PingCastle - Get Active Directory Security at 80% in 20% of the time** by *vletoux* (https://github.com/vletoux/pingcastle)
 
-### Topic 5. Perimeter and Network security
+
+### Topic 5. Network infraestructure security
 
 - **Malwoverview first response tool for threat hunting** by *Alexandre Borges* (https://github.com/alexandreborges/malwoverview)
+- **MITRE D3FEND** by *MITRE* (https://d3fend.mitre.org/)
+
 
 ### Topic 6. Application Security
 
 - **Un marco de análisis de comportamiento de entidades y usuarios (UBA) robusto y flexible de código abierto** by *Álvaro Paz* (https://gurudelainformatica.es/un-marco-de-analisis-de-comportamiento-de-entidades-y-usuarios-uba-robusto-y-flexible-de-codigo-abierto)
 - **Virtual Patching Best Practices** by *OWASP* (https://owasp.org/www-community/Virtual_Patching_Best_Practices)
 - **Weaknesses in the 2021 CWE Top 25 Most Dangerous Software Weaknesses** by *MITRE* (http://cwe.mitre.org/data/definitions/1337.html)
+
 
 ### Topic 7. Introduction to Red Team Techniques. CTFs
 
@@ -56,52 +65,82 @@ Happy Hacking! :)
 
 ##### Windows
 
+
+
 ## Extra materials from the Seminar classes ##
 
 ### Seminar 1. Tools for Investigating on Internet
 
+- **How To Get Hacked By Accidentally Copy Pasting** by *Gabriel Friedlander* (https://www.wizer-training.com/blog/copy-paste)
 - **Twitter Advanced Search** by *Igor Brigadir* (https://github.com/igorbrigadir/twitter-advanced-search)
+
 
 ### Seminar 2. Physical security
 
+
 ### Seminar 3. Automated vulnerability scanning tools
+
 
 ### Seminar 4. Introduction to reversing
 
 - **Ataque ROP** by *scanthenet.net* (https://scanthenet.es/ataque-rop/)
 - **Reversing Demo Malware 32bits** by *Abraham Pasamar* (Video) (https://youtu.be/FsQlk-Ut9fY)
 
+
 ### Seminar 5. Input validation
 
+
 ### Seminar 6. HTTP headers and CSP
+
 
 ### Seminar 7. Write-up of a CTF machine
 
 - **A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players** by *devploit* (https://github.com/devploit/ctf-awesome-resources)
 
+
+
 ## Extra materials from the Laboratory classes ##
 
 ### Lab 00. Creating your Virtual Machine for the Course and Automated Infrastructures
 
+
 ### Lab 01. System setup
+
 
 ### Lab 02. Information Discovery and OSINT
 
 - **OSINT Tips** by *blaCCkHatHacEEkr* (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 
+
 ### Lab 03-04. Cryptography Applications 
+
 
 ### Lab 05. Operating System Security (non-automatable)
 
+- **Configurar correo electrónico seguro con SPF, DMARC y DKIM** by *el-brujo* (https://blog.elhacker.net/2020/11/configurar-correo-electronico-seguro-spf-dmarc-dkim.html?m=1&s=09)
+- **journalctl; analizar logs del sistema en Linux** by *el-brujo* (https://blog.elhacker.net/2021/04/journalctl-analizar-logs-del-sistema-en-linux.html?m=1&s=09)
+
+
 ### Lab 06. Automatable Linux Operating System. Security policies
 
+- ** OVAL Content Creation Tutorial** by *OVAL project* (https://ovalproject.github.io/getting-started/tutorial/)
+
+
 ### Lab 07. Network Security
+
+- ** How To Use fwknop to Enable Single Packet Authentication on Ubuntu** by *Justin Ellingwood* (https://www.digitalocean.com/community/tutorials/how-to-use-fwknop-to-enable-single-packet-authentication-on-ubuntu-12-04)
+- ** Visualizando los registros de Suricata en Grafana o Kibana** by *Héctor Herrero* (https://www.bujarra.com/visualizando-los-registros-de-suricata-en-grafana-o-kibana/)
+
 
 ### Lab 08-09. Network Enumeration
 
 - **Subdomain Enumeration Guide** by *sidxparab* (https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
 
+
 ### Lab 10. Defending a web application
+
+- **Bug Bounty Reference** by *Vanshal* (https://github.com/Vanshal/Bug-Hunting)
+
 
 ### Lab 11. Exploiting
 
@@ -114,14 +153,24 @@ Happy Hacking! :)
 
 ##### Windows
 
+
 ### Lab 12. Privilege Scalation
 
+#### General
+
+- ** Pivot Cheat Sheet** by *SANS Offensive Operations* (https://www.sans.org/posters/pivot-cheat-sheet)
+
 #### Linux
+
+- **GTFOBins** by *Emilio Pinna* and *Andrea Cardaci* (https://gtfobins.github.io/)
 
 #### Windows
 
 - **Active Directory Exploitation Cheat Sheet** by *S1ckB0y1337* (https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#active-directory-exploitation-cheat-sheet)
+- **LOLBAS** by *LOLBAS Project* (https://lolbas-project.github.io/)
 - **Pentesting Active Directory** by *Mario Guglia* (https://guglia001.github.io/articulos/ad/htb/active-directory/)
+
+
 
 ## Tools and other cheatsheets ##
 
