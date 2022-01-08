@@ -26,9 +26,12 @@ Happy Hacking! :)
 ### Topic 7. Introduction to Red Team Techniques. CTFs
 
 
+
 ## Extra materials from the Seminar classes ##
 
 ### Seminar 1. Tools for Investigating on Internet
+
+- **Twitter Advanced Search** by Igor Brigadir: (https://github.com/igorbrigadir/twitter-advanced-search)
 
 ### Seminar 2. Physical security
 
@@ -44,6 +47,8 @@ Happy Hacking! :)
 ### Seminar 6. HTTP headers and CSP
 
 ### Seminar 7. Write-up of a CTF machine
+
+- **A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players** by devploit: (https://github.com/devploit/ctf-awesome-resources)
 
 ## Extra materials from the Laboratory classes ##
 
