@@ -10,6 +10,12 @@ Happy Hacking! :)
 
 ### Topic 1. Introduction
 
+- **Hack-zines: Understanding hacking concepts the easy way** by *me* (https://www.researchgate.net/publication/344693274_Hack-zines_Understanding_hacking_concepts_the_easy_way)
+- **La Profesora lEIIton y el "Destripe" de la Web (Sin necesidad de conocimientos técnicos)** by *me* (https://www.researchgate.net/publication/348307586_La_Profesora_lEIIton_y_el_Destripe_de_la_Web_Sin_necesidad_de_conocimientos_tecnicos)
+    - Video: https://www.youtube.com/watch?v=jzwiIxvKUSE&t=142s
+- **Redes, Mentiras y (tus) Tarjetas de crédito: Fraudes Online** by *me* (https://www.researchgate.net/publication/348307670_Redes_Mentiras_y_tus_Tarjetas_de_credito_Fraudes_Online)
+    - Video: https://www.youtube.com/watch?v=pVoMN9mrCVk&t=64s
+
 
 ### Topic 2. Cryptography applications
 
@@ -19,10 +25,18 @@ Happy Hacking! :)
 
 ### Topic 3. OS Security
 
-- ** Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01** by *Olaf Hartong* (https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
+- **Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01** by *Olaf Hartong* (https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
 
 
 ### Topic 4. Security policies and Automated Security
+
+#### Múltiple OS
+
+- **El Hardening puede no ser tan "Hard": Procedimientos técnicos fiables y automatización** by *me* (https://www.researchgate.net/publication/346966017_El_Hardening_puede_no_ser_tan_Hard_Procedimientos_tecnicos_fiables_y_automatizacion)
+- **Infrastructure as Code Meets Compliance as Code: Deploying secure machines automatically** by *me* (https://www.researchgate.net/publication/356911253_Infrastructure_as_Code_Meets_Compliance_as_Code_Deploying_secure_machines_automatically)
+    - Video: https://youtu.be/jr289QSMmS4
+- **Docker: Strong Foundations for Verifiable Secure Deployments** by *me* (https://www.researchgate.net/publication/352106084_Docker_Strong_Foundations_for_Verifiable_Secure_Deployments)
+    - Video: https://youtu.be/Kx2lxnHRhRs
 
 #### Linux
 
@@ -92,6 +106,7 @@ Happy Hacking! :)
 
 ### Seminar 6. HTTP headers and CSP
 
+- **Seguridad Web Independiente del Lenguaje** by *me* (https://www.researchgate.net/publication/337059294_Seguridad_Web_Independiente_del_Lenguaje)
 
 ### Seminar 7. Write-up of a CTF machine
 
@@ -103,6 +118,7 @@ Happy Hacking! :)
 
 ### Lab 00. Creating your Virtual Machine for the Course and Automated Infrastructures
 
+- **SSI Infraestructure Automation Materials** by *me* (https://github.com/jose-r-lopez/SSI_Infraestructure_Automation_Materials/blob/main/README.md)
 
 ### Lab 01. System setup
 
@@ -123,13 +139,13 @@ Happy Hacking! :)
 
 ### Lab 06. Automatable Linux Operating System. Security policies
 
-- ** OVAL Content Creation Tutorial** by *OVAL project* (https://ovalproject.github.io/getting-started/tutorial/)
+- **OVAL Content Creation Tutorial** by *OVAL project* (https://ovalproject.github.io/getting-started/tutorial/)
 
 
 ### Lab 07. Network Security
 
-- ** How To Use fwknop to Enable Single Packet Authentication on Ubuntu** by *Justin Ellingwood* (https://www.digitalocean.com/community/tutorials/how-to-use-fwknop-to-enable-single-packet-authentication-on-ubuntu-12-04)
-- ** Visualizando los registros de Suricata en Grafana o Kibana** by *Héctor Herrero* (https://www.bujarra.com/visualizando-los-registros-de-suricata-en-grafana-o-kibana/)
+- **How To Use fwknop to Enable Single Packet Authentication on Ubuntu** by *Justin Ellingwood* (https://www.digitalocean.com/community/tutorials/how-to-use-fwknop-to-enable-single-packet-authentication-on-ubuntu-12-04)
+- **Visualizando los registros de Suricata en Grafana o Kibana** by *Héctor Herrero* (https://www.bujarra.com/visualizando-los-registros-de-suricata-en-grafana-o-kibana/)
 
 
 ### Lab 08-09. Network Enumeration
@@ -158,7 +174,7 @@ Happy Hacking! :)
 
 #### General
 
-- ** Pivot Cheat Sheet** by *SANS Offensive Operations* (https://www.sans.org/posters/pivot-cheat-sheet)
+- **Pivot Cheat Sheet** by *SANS Offensive Operations* (https://www.sans.org/posters/pivot-cheat-sheet)
 
 #### Linux
 
