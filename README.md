@@ -12,8 +12,8 @@ Happy Hacking! :)
 
 ### Topic 2. Cryptography applications
 
-- **Practical Cryptography for Developers** by Svetlin Nakov: (https://cryptobook.nakov.com/)
-- **Introduction to Quantum Computing** by Thomas Wong: (http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf)
+- **Introduction to Quantum Computing** by *Thomas Wong* (http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf)
+- **Practical Cryptography for Developers** by *Svetlin Nakov* (https://cryptobook.nakov.com/)
 
 ### Topic 3. OS Security
 
@@ -26,12 +26,11 @@ Happy Hacking! :)
 ### Topic 7. Introduction to Red Team Techniques. CTFs
 
 
-
 ## Extra materials from the Seminar classes ##
 
 ### Seminar 1. Tools for Investigating on Internet
 
-- **Twitter Advanced Search** by Igor Brigadir: (https://github.com/igorbrigadir/twitter-advanced-search)
+- **Twitter Advanced Search** by *Igor Brigadir* (https://github.com/igorbrigadir/twitter-advanced-search)
 
 ### Seminar 2. Physical security
 
@@ -39,8 +38,8 @@ Happy Hacking! :)
 
 ### Seminar 4. Introduction to reversing
 
-- **Ataque ROP** by scanthenet.net: (https://scanthenet.es/ataque-rop/)
-- **Reversing Demo Malware 32bits** by Abraham Pasamar (Video): (https://youtu.be/FsQlk-Ut9fY)
+- **Ataque ROP** by *scanthenet.net* (https://scanthenet.es/ataque-rop/)
+- **Reversing Demo Malware 32bits** by *Abraham Pasamar* (Video) (https://youtu.be/FsQlk-Ut9fY)
 
 ### Seminar 5. Input validation
 
@@ -48,7 +47,7 @@ Happy Hacking! :)
 
 ### Seminar 7. Write-up of a CTF machine
 
-- **A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players** by devploit: (https://github.com/devploit/ctf-awesome-resources)
+- **A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players** by *devploit* (https://github.com/devploit/ctf-awesome-resources)
 
 ## Extra materials from the Laboratory classes ##
 
@@ -58,7 +57,7 @@ Happy Hacking! :)
 
 ### Lab 02. Information Discovery and OSINT
 
-- **OSINT Tips** by blaCCkHatHacEEkr: (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
+- **OSINT Tips** by *blaCCkHatHacEEkr* (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 
 ### Lab 03-04. Cryptography Applications 
 
@@ -76,11 +75,18 @@ Happy Hacking! :)
 
 ### Lab 12. Privilege Scalation
 
+#### Linux
+
+#### Windows
+
+- **Active Directory Exploitation Cheat Sheet** by *S1ckB0y1337* (https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#active-directory-exploitation-cheat-sheet)
+- **Pentesting Active Directory** by *Mario Guglia* (https://guglia001.github.io/articulos/ad/htb/active-directory/)
+
 ## Tools and other cheatsheets ##
 
 ### Third-party Cheatsheets
 
-- **Cheatsheet collection (miscellaneous tools, commands, concepts)** from elhacker.net: (https://ns2.elhacker.net/cheat-sheet/)
+- **Cheatsheet collection (miscellaneous tools, commands, concepts)** from *elhacker.net* (https://ns2.elhacker.net/cheat-sheet/)
 
 ### Our own Cheatsheets
 In the course *Seguridad de Sistemas Informáticos* (SSI, Computer Systems Security) from the *Escuela de Ingeniería Informática* of the University of Oviedo (https://ingenieriainformatica.uniovi.es/) we make extensive usage of cheatsheets for various tools. I have decided to share them to enable others to take advantage of these materials if they want. Please, be sure to also check my related repo *SSI_Materials* (https://github.com/jose-r-lopez/SSI_Materials) that contains how to create training labs to test these tools.
