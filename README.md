@@ -135,13 +135,31 @@ Happy Hacking! :)
 
 ### Lab 05. Operating System Security (non-automatable)
 
+- **CIS Benchmarks PDF Downloads** (free registration required for downloading) by *Center for Internet Security* (https://www.cisecurity.org/cis-benchmarks/)
+- **CIS Crítical Security Controls** by *Center for Internet Security* (https://www.cisecurity.org/controls/)
 - **Configurar correo electrónico seguro con SPF, DMARC y DKIM** by *el-brujo* (https://blog.elhacker.net/2020/11/configurar-correo-electronico-seguro-spf-dmarc-dkim.html?m=1&s=09)
+- **Esquema Nacional de Seguridad: Series completas de guías CCN-STIC** by *CCN-CERT* (https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic.html)
 - **journalctl; analizar logs del sistema en Linux** by *el-brujo* (https://blog.elhacker.net/2021/04/journalctl-analizar-logs-del-sistema-en-linux.html?m=1&s=09)
-
+- **Security Technical Implementation Guides (STIGs)** by *DoD (USA)* (https://public.cyber.mil/stigs/)
 
 ### Lab 06. Automatable Linux Operating System. Security policies
 
+#### Múltiple OS
+
 - **OVAL Content Creation Tutorial** by *OVAL project* (https://ovalproject.github.io/getting-started/tutorial/)
+
+#### Linux
+
+- **Debian 9 CIS Hardening Ansible Role** by *Florian Utz* (https://github.com/florianutz/Debian9-CIS)
+- **Docker CE Engine CIS hardening Ansible Role** by *Florian Utz* (https://github.com/florianutz/DockerCE-CIS)
+- **Red Hat 7 CIS Baseline Ansible Role** by *Florian Utz* (https://github.com/florianutz/RHEL7-CIS)
+- **Ubuntu 16.04 CIS Hardening Ansible Role** by *Florian Utz* (https://github.com/florianutz/Ubuntu1604-CIS)
+- **Ubuntu 18.04 CIS Hardening Ansible Role** by *Florian Utz* (https://github.com/florianutz/Ubuntu1804-CIS)
+- **Ubuntu 20.04 CIS Hardening Ansible Role** by *Florian Utz* (https://github.com/florianutz/ubuntu2004_cis)
+
+#### Windows
+
+- **CLARA: Manual de Uso para cumplimiento ENS** by *CCN-CERT* (https://www.google.com/url?q=https://www.ccn-cert.cni.es/publico/herramientas/clara_ENS/Manual_de_uso_Clara_cumplimiento_ENS_v1.3.pdf&sa=U&ved=2ahUKEwi_6ZrnxqL1AhUCtRoKHV16C0UQFnoECAoQAg&usg=AOvVaw25kG8_Qd2wHwAUTLXA8HpF)
 
 
 ### Lab 07. Network Security
