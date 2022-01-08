@@ -263,7 +263,11 @@ Currently I offer 33 cheatsheets for these tools:
 
 I have also added the "Secure Coding Checklist Template" that was aimed to enable my students to have a quick reference of common security checks that should be done to their code, enabling automatic calculation of implemented security controls similar to those that can be done with the *CIS Controls*. **This is by no means a methodology** (it was adapted from a rather old document from OWASP, the *OWASP Secure Coding Practices Quick Reference Guide v2.0*, https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf), but enables the students to perform an adequate code review in a short time, turning those applications that use this checklist substantially more secure just by making sure several of these controls are correctly implemented in their code. Just remember that my students are beginning to learn security practices, so I thought it will be nice for them to have a centralized checklist of things to check that also enable some metrics so they can easily show their work. 
 
- 
+## Training, tutorials and courses ##
+
+- **Blog AsturHackers** (https://asturhackers.es/)
+- **S4vitar. Canal de ciberseguridad y Hacking Ético | Read Team & Pentesting** (YouTube) (https://m.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q)
+
  Happy security training! :D
  
  
