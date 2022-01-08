@@ -127,10 +127,13 @@ Happy Hacking! :)
 
 ### Lab 02. Information Discovery and OSINT
 
+- **Email spoofing: comprueba quién te envía un correo sospechoso** by *OSI* (https://www.osi.es/es/actualidad/blog/2020/11/11/email-spoofing-comprueba-quien-te-envia-un-correo-sospechoso)
 - **OSINT Tips** by *blaCCkHatHacEEkr* (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 
 
 ### Lab 03-04. Cryptography Applications 
+
+- **CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.** by *gchq* (https://gchq.github.io/CyberChef/)
 
 
 ### Lab 05. Operating System Security (non-automatable)
