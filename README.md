@@ -134,6 +134,10 @@ Happy Hacking! :)
 ### Lab 02. Information Discovery and OSINT
 
 - **awesome-shodan-queries: A collection of interesting, funny, and depressing search queries to plug into shodan.io** by *jakejarvis* (https://github.com/jakejarvis/awesome-shodan-queries)
+- **Censys:**
+    - **Search 2.0 Quick Start Guide** (https://support.censys.io/hc/en-us/articles/4402277585300-Search-2-0-Quick-Start-Guide)
+    - **Search 2.0 Example Host Queries** (https://support.censys.io/hc/en-us/articles/360059720271-Search-2-0-Example-Host-Queries)
+    - **Censys.io Guide: Discover SCADA and Phishing Sites** by *Patrick Hudak* (https://0xpatrik.com/censys-guide/)
 - **Email spoofing: comprueba quién te envía un correo sospechoso** by *OSI* (https://www.osi.es/es/actualidad/blog/2020/11/11/email-spoofing-comprueba-quien-te-envia-un-correo-sospechoso)
 - **OSINT Tips** by *blaCCkHatHacEEkr* (https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 - **SpoofThatMail: Bash script to check if a domain or list of domains can be spoofed based in DMARC records** by *v4d1* (https://github.com/v4d1/SpoofThatMail)
