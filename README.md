@@ -49,6 +49,9 @@ Happy Hacking! :)
 
 ### Topic 5. Network infraestructure security
 
+- **IPv6 (1/N). Introducción** by *@wearedementors (Felipe Cañizares)* (Twitter thread) (https://twitter.com/wearedementors/status/1476558312435064833?t=s_ANdBg2ps-2BwQYcRFIYQ&s=19)
+- **IPv6 (2/N). Direccionamiento** by *@wearedementors (Felipe Cañizares)* (Twitter thread) (https://twitter.com/wearedementors/status/1476893188648579072?t=RfbcjJsWoNgyLMAzsTqEEA&s=19) 
+- **IPv6 (3/N). Subredes** by *@wearedementors (Felipe Cañizares)* (Twitter thread) (https://twitter.com/wearedementors/status/1480141543826759683?t=HG8OlUUvnKWOk1qW_d1wlw&s=19)
 - **Malwoverview first response tool for threat hunting** by *Alexandre Borges* (https://github.com/alexandreborges/malwoverview)
 - **MITRE D3FEND** by *MITRE* (https://d3fend.mitre.org/)
 
