@@ -279,7 +279,6 @@ I have also added the "Secure Coding Checklist Template" that was aimed to enabl
 ## Training, tutorials and courses ##
 
 - **Blog AsturHackers** (https://asturhackers.es/)
-- **S4vitar. Canal de ciberseguridad y Hacking Ético | Read Team & Pentesting** (YouTube) (https://m.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q)
 
  Happy security training! :D
  
