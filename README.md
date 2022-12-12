@@ -1,3 +1,5 @@
+**NEWS: The course that correspond to these materials is now available for free here!: https://ocw.uniovi.es/course/view.php?id=109**
+
 # Extra materials for my Security Courses
 
 I am the coordinator of one undergraduate and three graduate security courses in a small university in the North of Spain (University of Oviedo, Asturias). They are taught in the *School of Computer Engineering* (EII), *University of Oviedo*, Spain (https://ingenieriainformatica.uniovi.es/). 
