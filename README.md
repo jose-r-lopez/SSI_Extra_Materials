@@ -1,4 +1,4 @@
-**NEWS: The course that correspond to these materials is now available for free here!: https://ocw.uniovi.es/course/view.php?id=109**
+**NEWS: The course that correspond to these materials is now available for free here!: [https://ocw.uniovi.es/course/view.php?id=98](https://ocw.uniovi.es/course/view.php?id=98)**
 
 # Extra materials for my Security Courses
 
